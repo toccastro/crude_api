@@ -3,7 +3,7 @@ package thiago.teste.demo.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Repository;
+
 import org.springframework.web.bind.annotation.*;
 import thiago.teste.demo.repository.PessoaRepository;
 import thiago.teste.demo.model.Pessoa;
